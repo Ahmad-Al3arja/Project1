@@ -1,0 +1,58 @@
+.fire div { 
+    width: 200px;
+    height: 100px;
+    line-height: 6;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
+.first
+{
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;
+    outline: 5px solid black;
+    
+}
+.second {
+    border-color: blue green;
+    border-width: 5px;
+    border-style: solid;
+    outline: 5px solid black;
+
+}
+.third {
+    border-color: red green blue yellow;
+    border-width: 5px;
+    border-style: dashed;
+    outline: 5px solid black;
+
+}
+.firei div {
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+}
+.four  {
+    background-color: #eee;
+height: 10px;
+border-left: solid rgb(192, 255, 217);
+
+
+}
+.five {
+    background-color: #eee;
+
+    display: none;
+}
+.six {
+    background-color: #eee;
+
+    height: 10px;
+    border-left: solid pink;
+   
+
+}
